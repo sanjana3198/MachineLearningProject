@@ -1,2 +1,0 @@
-scikit-learn
-google-generativeai==0.5.2
